@@ -4,7 +4,7 @@
 menggunakan clustering _unsupervised machine learning based_. Dataset yang digunakan berasal dari
 kaggle tentunya ([Spotify Dataset](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset)).
 input daftar musik, durasi, tahun rilis dari user didengarkan user menggunakan clustering untuk
-membaca pola yang ada pada dataset untuk
+membaca pola yang ada pada dataset.
 
 ## 📝 Requirements
 
@@ -20,10 +20,9 @@ Untuk mendukung kelancaran installasi pastikan sudah memenuhi hal-hal berikut:
 - Ouput sistem akan memeberikan beberapa rekomendasi lagu yang memilki kemiripan dari input user
   berdasarkan dataset yang tersedia.
 
-## ⚙️ Konfigurasi Installasi
+## 🗝️ SPOTIFY DASHBOARD
 
-Pada tahap konfigurasi istilah **`[[...]]`** (memiliki arti opsional), dan **`[...]`** (merupakan
-wajib di isi).
+## ⚙️ Konfigurasi Installasi
 
 1. Clone Repository
 
