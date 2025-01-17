@@ -22,6 +22,16 @@ Untuk mendukung kelancaran installasi pastikan sudah memenuhi hal-hal berikut:
 
 ## 🗝️ SPOTIFY DASHBOARD
 
+Cara mendapatkan _Client ID_ dan _Client Screet_ Spotify:
+
+- Buka [Spotify Dashboard](https://developer.spotify.com/)
+- Login dan buka dashboard
+- Pilih _Create app_
+- Buka app yang sudah di buat pada dashboard
+- Pilih _settings_
+- Pilih bagan _basic information_
+- Salin _Client ID_ serta _Client Secreet_
+
 ## ⚙️ Konfigurasi Installasi
 
 1. Clone Repository
